@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "ru.parhom.beeradviser.app-mergeDebugResources-2:/values-zh-rHK/values-zh-rHK.xml",
+            "outputFile": "ru.parhom.beeradviser.app-mergeDebugResources-29:/values-zh-rHK/values-zh-rHK.xml",
             "map": [
                 {
                     "source": "C:\\Users\\YUREC\\.gradle\\caches\\transforms-4\\2b2289ba70286939a91ebcc3db293518\\transformed\\core-1.13.1\\res\\values-zh-rHK\\values-zh-rHK.xml",

@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="beer_colors">
+        <item>Светлое</item>
+        <item>Пшеничное</item>
+        <item>Лагер</item>
+        <item>Тёмное</item>
+    </string-array>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">Beer Adviser</string>

@@ -1,12 +1,13 @@
 R_DEF: Internal format may change without notice
 local
+array beer_colors
 color black
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 id beer_color
 id brands
-id button
+id find_beer
 id main
 layout activity_main
 mipmap ic_launcher

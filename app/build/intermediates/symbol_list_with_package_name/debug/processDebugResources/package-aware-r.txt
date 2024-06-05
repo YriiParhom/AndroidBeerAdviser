@@ -77,6 +77,7 @@ animator mtrl_fab_hide_motion_spec
 animator mtrl_fab_show_motion_spec
 animator mtrl_fab_transformation_sheet_collapse_spec
 animator mtrl_fab_transformation_sheet_expand_spec
+array beer_colors
 attr SharedValue
 attr SharedValueId
 attr actionBarDivider
@@ -3196,7 +3197,6 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id brands
-id button
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3287,6 +3287,7 @@ id fill
 id fill_horizontal
 id fill_vertical
 id filled
+id find_beer
 id fitCenter
 id fitEnd
 id fitStart
