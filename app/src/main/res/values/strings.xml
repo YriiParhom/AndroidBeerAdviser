@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Beer Adviser</string>
+    <string name="find_bear">Найти пиво</string>
+    <string name="brands">Пиво пока не выбрано</string>
+</resources>
