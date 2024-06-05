@@ -12,10 +12,11 @@
         android:layout_width="wrap_content"
         android:layout_height="48dp"
         android:layout_gravity="center"
-        android:layout_margin="16dp"/>
+        android:layout_margin="16dp"
+        android:entries="@array/beer_colors"/>
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/find_beer"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
